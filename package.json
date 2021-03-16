@@ -13,7 +13,7 @@
   ],
   "dependencies": {
     "bindings": "^1.5.0",
-    "bluetooth-serial-port": "git+https://github.com/thinairart/bluetooth-serial-port",
+    "bluetooth-serial-port": "git+https://github.com/thinairart/node-bluetooth-serial-port",
     "copyfiles": "^2.1.1"
   },
   "engines": {
